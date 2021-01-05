@@ -1,4 +1,4 @@
-gyarto;tipus;uzemanyag;motorccm;motorle;motornyomatek;vegsebesseg;gyorsulas;sebessegvalto;vegyesfogyasztas;utasokszama
+gyarto;tipus;uzemanyag;motorcm3;motorle;motornyomatek;vegsebesseg;gyorsulas;sebessegvalto;vegyesfogyasztas;utasokszama
 Ford;C_Max;benzin;1600;125;159;188;11.5;5;6.4;5
 Ford;Grand_C_Max;dízel;2000;140;320;198;10.5;6;5.7;7
 Ford;Focus_CabrioletII;benzin;1999;145;190;198;11.9;5;8.3;4
